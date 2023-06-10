@@ -1,0 +1,6 @@
+a=3+5+6
+IF a<5 THEN DISPLAY "Entered if"
+WHILE a>10 DO DISPLAY "statement" ENDWHILE
+ELSE DISPLAY "entered else" 
+FOR q=20 TO 40 DO p=3+4+5 DISPLAY p ENDFOR 
+ENDIF
